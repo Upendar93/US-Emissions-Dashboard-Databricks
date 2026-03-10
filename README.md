@@ -62,7 +62,8 @@ The dataset includes:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](Emissions_dashboard_1.png)
+![Dashboard](Emissions_dashboard_1.1.png)
 
 ---
 
